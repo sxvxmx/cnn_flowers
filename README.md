@@ -10,3 +10,4 @@ Model architecture:
   
   ![image](https://github.com/sxvxmx/cnn_flowers/assets/115085796/267d82b9-39ef-4be2-830f-9686f3cb53cf)
 
+Accuracy of the my model on the 445 test images: 72.80898876404494 %
