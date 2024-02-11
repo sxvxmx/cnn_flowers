@@ -8,6 +8,6 @@ Classes:
 
 Model architecture:
   
-  ![image](https://github.com/sxvxmx/cnn_flowers/assets/115085796/267d82b9-39ef-4be2-830f-9686f3cb53cf)
+  ![image](https://github.com/sxvxmx/cnn_flowers/assets/115085796/5637c2e0-3381-451d-93f6-0d45912467b8)
 
 Accuracy of the my model on the 445 test images: 72.80898876404494 %
